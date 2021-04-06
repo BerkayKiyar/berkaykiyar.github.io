@@ -1,0 +1,210 @@
+body {
+    font-family: Montserrat;
+}
+
+.header {
+    background-color: #9E0AF9 !important;
+}
+
+.nav-link {
+    color: white !important;
+    letter-spacing: 1px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 140px;
+    text-align: center;
+}
+
+.nav-link:hover{
+    background-color: rgb(0, 225, 255) !important;
+    transition: all ease .5s;
+}
+
+header {
+    width: 100%;
+    position: fixed !important;
+    z-index: 1;
+}
+
+.navbar-brand{
+    color: white !important;
+}
+
+.navbar-toggler {
+    background-color: white;
+}
+
+.yazi {
+    width: 100%;
+    height: 700px;
+    color: whitesmoke;
+    margin-top: 250px;
+    text-align: center;
+    margin: 0 auto;
+    background: linear-gradient(#9E0AF9,#000000); 
+}
+
+/*background: linear-gradient(#9E0AF9,#000000);*/
+
+.yazi h1{
+    width: 60%;
+    color: whitesmoke;
+    padding-top: 190px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.typer {
+    color: whitesmoke !important;
+}
+
+
+.paragraf{
+    letter-spacing: 1px;
+    font-size: 18px;
+}
+
+.bas {
+    text-align: center;
+}
+
+#why-me {
+    height: 700px;
+    background: linear-gradient(#000000, rgb(32, 32, 32));
+}
+
+.why-me-baslik {
+    display: inline-block;
+    color: whitesmoke;
+    margin-top: 80px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-right: 6px;
+    padding-left: 6px;
+    font-family: Comic;
+    letter-spacing: 2px;
+}
+
+.why-me-item {
+    margin-top: 40px;
+}
+
+
+.con {
+    text-align: center;
+}
+
+
+.card-group {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.card{
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    border: 0px;
+    height: 350px;
+}
+
+.card-img-top {
+    height: 150px;
+}
+
+.arkaplan {
+    background: linear-gradient(rgb(32, 32, 32), grey );
+}
+
+.col {
+    text-align: center;
+}
+
+.footer-ul {
+    list-style: none;
+}
+
+.footer-h3 {
+    color: white;
+    padding-left: 30px;
+}
+
+.footer-a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    color: whitesmoke;
+}
+
+.footer-arkaplan {
+        background-color: rgb(44, 44, 44);
+}
+
+.row {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.bi-instagram {
+    color: rgb(175, 174, 174);
+    font-size: 25px;
+    padding-top: 15px;
+    padding-right: 15px;
+}
+
+.bi-linkedin {
+    color: rgb(175, 174, 174);
+    font-size: 25px;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+.footer-h3-follow {
+    color: white;
+}
+
+.bi-linkedin:hover {
+    color: white;
+    transition: all .5s ease;
+}
+
+.bi-instagram:hover {
+    color: white;
+    transition: all .5s ease;
+}
+
+.footer-a:hover {
+    color: #9E0AF9 !important;
+    transition: all .5s ease;
+}
+
+.card-text {
+    font-size: 18px;
+}
+
+.freelancer-text {
+    color: white;
+    text-decoration: none;
+}
+
+.gmail-text {
+    color: white;
+    text-decoration: none;
+}
+
+.fiverr-text {
+    color: white;
+    text-decoration: none;
+}
+
+.fiverr-text:hover {
+    color: white;
+}
+
+.gmail-text:hover {
+    color: white;
+}
+
+.freelancer-text:hover {
+    color: white;
+}
